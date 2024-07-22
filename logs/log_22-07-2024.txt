@@ -1,0 +1,13 @@
+
+00:46:34 - Ocorreu um erro no arquivo main.py. Detalhes:
+Linha 17: name 'bad_var' is not defined
+Tipo de erro: NameError
+Atributo __context__: None
+Atributo __traceback__: <traceback object at 0x0000021B52D88300>
+-----------------------------------------------------------------
+00:46:40 - Ocorreu um erro no arquivo main.py. Detalhes:
+Linha 17: name 'bad_var' is not defined
+Tipo de erro: NameError
+Atributo __context__: None
+Atributo __traceback__: <traceback object at 0x000002202E878300>
+-----------------------------------------------------------------
